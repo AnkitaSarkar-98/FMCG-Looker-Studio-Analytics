@@ -1,5 +1,5 @@
 # Polar Fresh FMCG - Sales Performance Dashboard (2022–2024)
-📊 [Live Looker Studio Dashboard]([(https://datastudio.google.com/reporting/dfd7f263-1fa0-43cb-aff4-986a9cb983a6)])
+* 📊 [Live Looker Studio Dashboard]([PASTE_YOUR_COPIED_LINK_HERE](https://datastudio.google.com/reporting/dfd7f263-1fa0-43cb-aff4-986a9cb983a6))
 ## Overview
 This repository presents an interactive **Sales Performance Dashboard** for **Polar Fresh FMCG**, tracking sales revenue, unit volume, transaction history, and channel distributions across various product categories from 2022 to 2024[cite: 1]. 
 
