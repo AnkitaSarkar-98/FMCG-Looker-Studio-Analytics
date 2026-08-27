@@ -18,6 +18,8 @@ This repository presents an interactive **Sales Performance Dashboard** for **Po
 ## Tools & Methods
 
 ### Tools
+
+* **Google Sheet:** Data Cleaning & Aggregation.
 * **Looker Studio:** Used to build, visualize, and present interactive dynamic reporting views.
 * **Data Processing:** Cleaned, structured, and aggregated transactional dataset spanning 2022–2024.
 
