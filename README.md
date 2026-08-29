@@ -1,7 +1,10 @@
 # Polar Fresh FMCG - Sales Performance Dashboard (2022–2024)
 *  [Live Looker Studio Dashboard](https://datastudio.google.com/reporting/dfd7f263-1fa0-43cb-aff4-986a9cb983a6)
+
+![image alt](https://github.com/AnkitaSarkar-98/FMCG-Looker-Studio-Analytics/blob/main/FMCG_Analysis_Dashboard.png?raw=true)
+
 ## Overview
-This repository presents an interactive **Sales Performance Dashboard** for **Polar Fresh FMCG**, tracking sales revenue, unit volume, transaction history, and channel distributions across various product categories from 2022 to 2024[cite: 1]. 
+This repository presents an interactive **Sales Performance Dashboard** for **Polar Fresh FMCG**, tracking sales revenue, unit volume, transaction history, and channel distributions across various product categories from 2022 to 2024. 
 
 ### Key Performance Indicators (KPIs)
 * **Total Revenue:** £19.95M
